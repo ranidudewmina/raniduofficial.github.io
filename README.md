@@ -2,4 +2,4 @@
 
 ## *Owner Ranidu Dewmina
 
-link[http//:raniduofficial.github.oi]
+link [https://raniduofficial.github.oi]
